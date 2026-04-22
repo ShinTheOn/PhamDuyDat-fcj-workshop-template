@@ -1,5 +1,5 @@
 ---
-title: "Week 1 Worklog"
+title: "Nhật ký thực tập Tuần 1"
 date: 2026-04-17
 weight: 1
 chapter: false
@@ -7,21 +7,20 @@ pre: "<b> 1.1. </b>"
 ---
 
 {{% notice info %}}
-**Lưu ý:** Báo cáo này ghi lại tiến độ thực hiện Module 1 và 5 nhiệm vụ cốt lõi trên nền tảng AWS.
+**Ghi chú:** Báo cáo này ghi lại tiến độ hoàn thành Module 1 và 5 nhiệm vụ AWS cốt lõi để xây dựng nền tảng Cloud.
 {{% /notice %}}
 
-### Week 1 Objectives:
+### Mục tiêu Tuần 1:
+* Kết nối và làm quen với các thành viên trong cộng đồng First Cloud Journey (FCJ).
+* Nắm vững các quy định, nội quy và tiêu chuẩn báo cáo của đơn vị thực tập.
+* Thành thạo 5 dịch vụ AWS cơ bản thông qua các bài thực hành "Cloud Journey".
 
-* Làm quen với các thành viên và cộng đồng First Cloud Journey (FCJ).
-* Hiểu nội quy thực tập và cách thức báo cáo tiến độ.
-* Nắm vững cách sử dụng các dịch vụ cơ bản của AWS thông qua 5 nhiệm vụ trọng tâm.
+### Danh sách công việc thực hiện:
 
-### Tasks to be carried out this week:
-
-| Day | Task | Start Date | Completion Date | Reference Material |
+| Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
 | :--- | :--- | :--- | :--- | :--- |
-| **1** | - Làm quen với thành viên FCJ.<br>- Đọc nội quy, quy định thực tập. | 17/04/2026 | 17/04/2026 | FCJ Handbook |
-| **2** | **Nhiệm vụ 1:** Khởi tạo máy chủ ảo với **Amazon EC2**. | 18/04/2026 | 18/04/2026 | [AWS Study Group](https://000001.awsstudygroup.com/) |
+| **1** | - Làm quen thành viên FCJ.<br>- Đọc và nắm rõ nội quy thực tập. | 17/04/2026 | 17/04/2026 | FCJ Handbook |
+| **2** | **Nhiệm vụ 1:** Khởi tạo máy chủ với **Amazon EC2**. | 18/04/2026 | 18/04/2026 | [AWS Study Group](https://000001.awsstudygroup.com/) |
 | **3** | **Nhiệm vụ 2:** Sử dụng mô hình nền tảng trong **Amazon Bedrock**. | 19/04/2026 | 19/04/2026 | [AWS Study Group](https://000001.awsstudygroup.com/) |
 | **4** | **Nhiệm vụ 3:** Thiết lập ngân sách chi phí với **AWS Budgets**. | 20/04/2026 | 20/04/2026 | [AWS Study Group](https://000001.awsstudygroup.com/) |
 | **5** | **Nhiệm vụ 4:** Tạo ứng dụng web bằng **AWS Lambda**. | 21/04/2026 | 21/04/2026 | [AWS Study Group](https://000001.awsstudygroup.com/) |
@@ -29,25 +28,35 @@ pre: "<b> 1.1. </b>"
 
 ---
 
-### Week 1 Achievements:
+### Chi tiết tiến độ hằng ngày (Cập nhật: 22/04/2026)
 
-* **Nắm vững các nhóm dịch vụ cơ bản của AWS:**
-    * **Compute:** Biết cách khởi tạo và quản lý máy chủ ảo với EC2.
-    * **Storage:** Hiểu cách lưu trữ đi kèm với Instance.
-    * **Database:** Thực hành tạo và quản lý cơ sở dữ liệu quan hệ với RDS/Aurora.
-    * **Serverless:** Làm quen với kiến trúc chạy code không máy chủ bằng Lambda.
-    * **AI/ML:** Trải nghiệm Generative AI thông qua Amazon Bedrock.
-* **Master cách quản lý chi phí tài khoản:**
-    * Biết cách thiết lập **AWS Budgets** để đặt ngưỡng cảnh báo, ngăn chặn việc phát sinh chi phí ngoài ý muốn (Credit Killers).
-    * Hiểu được tầm quan trọng của việc **Terminate/Delete** tài nguyên ngay sau khi thực hành bài Lab.
-* **Sử dụng thành thạo giao diện AWS Management Console:**
-    * Biết cách tìm kiếm dịch vụ, cấu hình các thông số kỹ thuật (AMI, Instance Type, Security Groups).
-    * Thực hiện yêu cầu quyền truy cập mô hình (Model Access) trong Bedrock thành công.
-* **Kỹ năng quản trị hệ thống cơ bản:**
-    * Khởi tạo thành công Key Pair và sử dụng SSH để kết nối vào máy chủ Linux từ xa.
-    * Biết cách sử dụng các Blueprint có sẵn trong Lambda để triển khai nhanh ứng dụng web.
-* **Xây dựng tư duy bảo mật:**
-    * Biết cách phân quyền truy cập thông qua Security Groups và bảo mật thông tin tài khoản AWS cá nhân.
+**Nội dung đã thực hiện ngày 21/04:**
+* **Hoàn thành Nhiệm vụ 4:** Triển khai thành công ứng dụng web không máy chủ (Serverless) bằng **AWS Lambda**.
+* Sử dụng Lambda HTTP blueprint để xử lý các yêu cầu web và kiểm tra thành công qua Function URL.
+* Thực hiện dọn dẹp tài nguyên (Xóa hàm) để đảm bảo không phát sinh chi phí ngoài ý muốn.
+
+**Kế hoạch ngày 22/04:**
+* **Thực hiện Nhiệm vụ 5:** Khởi tạo cụm cơ sở dữ liệu **Amazon RDS/Aurora**.
+* Thực hành cấu hình Security Group cho Database và tìm hiểu quy trình quản lý snapshot cũng như xóa dữ liệu an toàn.
 
 ---
-**Ghi chú:** Toàn bộ tiến trình thực hiện Module 1 đã được ghi lại bằng hình ảnh minh chứng để đảm bảo đủ điều kiện nhận $200 Credit từ chương trình.
+
+### Kết quả đạt được trong Tuần 1:
+
+* **Làm chủ các dịch vụ AWS cơ bản:**
+    * **Compute:** Có kỹ năng khởi tạo, cấu hình và kết nối SSH vào máy chủ EC2.
+    * **GenAI:** Trải nghiệm thực tế về Prompt Engineering và xử lý cấp quyền mô hình (Model Access) trên Bedrock.
+    * **Serverless:** Hiểu kiến trúc hướng sự kiện và triển khai ứng dụng web mà không cần quản lý hệ điều hành.
+    * **Database:** Biết cách thiết lập và quản lý hệ quản trị cơ sở dữ liệu quan hệ trên đám mây.
+* **Thành thạo quản lý chi phí:**
+    * Cấu hình thành công **AWS Budgets** với ngưỡng cảnh báo 80%, giúp phòng tránh các "Credit Killers".
+    * Hình thành thói quen "Dọn dẹp" (Terminate/Delete) tài nguyên ngay sau khi thực hành để bảo vệ hạn mức Credit.
+* **Kỹ năng kỹ thuật & Bảo mật:**
+    * Quản lý thành thạo Key Pair và cấu hình Security Group (các luật SSH/HTTP).
+    * Biết cách điều hướng và sử dụng tối ưu bảng điều khiển AWS Management Console.
+* **Kỹ năng làm việc & Giao tiếp:**
+    * Hòa nhập nhanh với đội ngũ FCJ và làm quen với quy trình báo cáo tiến độ hằng ngày (Daily Report).
+    * Xây dựng được hệ thống báo cáo khoa học trên GitHub và các kênh liên lạc nhóm.
+
+---
+**Ghi chú:** Toàn bộ bằng chứng và ảnh chụp màn hình các bài Lab đã được tổng hợp đầy đủ cho báo cáo cuối Module 1.
