@@ -8,61 +8,70 @@ pre : " <b> 4.3. </b> "
 
 ### Event Objectives
 
-- [cite_start]**Update Trends & Share Practical Perspectives:** To provide the engineering community and IT students with real-world industry perspectives on how enterprises deploy AI across departments to address Technical Debt[cite: 223].
-- [cite_start]**Optimize Engineering & Operational Processes:** To introduce modern application pathways via Agent architectures (Single-Agent, Multi-Agent), enhancing observability and automating cloud infrastructure incident response (DevOps AI Agent)[cite: 224].
-- [cite_start]**Address Localization and Security Challenges:** To guide the development of localized Voice AI specialized for Vietnamese (handling regional dialects and conversational contexts) and establish Private Security Connections to protect sensitive internal corporate data[cite: 225].
-- [cite_start]**Career Guidance:** To help tech professionals map out their Career Paths, establish early connections with enterprises, and cultivate the necessary skill sets to collaborate effectively with AI[cite: 226].
+- **Trend Updates & Real-world Insights:** Provide the IT engineering community and students with realistic enterprise perspectives on how corporations are leveraging AI across departments to address Technical Debt.
+- **Engineering & Operations Optimization:** Introduce application modernization methods using Agentic Architecture (Single-Agent, Multi-Agent), enhancing observability and automated incident response for Cloud infrastructure (DevOps AI Agent).
+- **Localization & Security Solutions:** Guide the development of localized Voice AI specialized for Vietnamese (handling regional dialect challenges and conversational context), and detail methods for setting up Private Security Connections to protect internal enterprise data.
+- **Career Orientation:** Help tech talents define their Career Path, connect early with enterprise environments, and equip themselves with essential skills for effective human-AI collaboration.
 
-### Speaker Lineup
+### Keynote Speakers
 
-- **Mr. [cite_start]Steve Tran** – Founder & CEO at Cloud Thinker (Former Solutions Architect at Amazon Web Services)[cite: 228].
-- **Mr. [cite_start]Hieu Nghi** – Representative from Renova Cloud[cite: 229].
-- **Mr. [cite_start]Kiet** – Representative from the AWS Student Builder Group community[cite: 230].
-- **Mr. [cite_start]Trung Nguyen** – Founder & CEO at R AI (Expert providing AI Agent solutions for major banks like VPBank, VIB)[cite: 231].
-- **Ms. [cite_start]Bao & Mr. Nguyen Nguyen** – Cloud Engineers from the Cloud Kinetics team[cite: 232].
-- **Mr. [cite_start]Truong (Wren) & Ms. Minh Anh** – AI Solution Specialists from Noventic[cite: 233].
-- **Mr. [cite_start]Toan Nguyen** – Cloud Security Expert (AWS Security Builder)[cite: 234].
+- **Mr. Steve Tran** – Founder & CEO at Cloud Thinker (Former Solutions Architect at Amazon Web Services).
+- **Mr. Hieu Nghi** – Representative from Renova Cloud.
+- **Mr. Kiet** – Representative from AWS Student Builder Group Community.
+- **Mr. Trung Nguyen** – Founder & CEO at R AI (Expert in AI Agent solutions for major banks such as VPBank, VIB).
+- **Ms. Bao & Mr. Nguyen Nguyen** – Cloud Engineers from Cloud Kinetics.
+- **Mr. Truong (Wren) & Ms. Minh Anh** – AI Solution Specialists from Noventic.
+- **Mr. Toan Nguyen** – AWS Security Builder.
 
-### Key Highlights
+### Featured Content
 
-#### 1. Agent Architecture Trends in Enterprises (Cloud Thinker)
-- [cite_start]Analysis of the trade-offs between cost and performance in Single-Agent (Super Agent) vs. Multi-Agent (Specialist Agents) architectures[cite: 237].
-- [cite_start]How AI empowers humans in production environment operations, cost optimization (FinOps), code reviews, and automated penetration testing[cite: 238].
+#### 1. Agent Architecture Trends in Enterprise (Cloud Thinker)
+- Trade-off analysis regarding cost and performance between Single-Agent (Super Agent) and Multi-Agent (Specialist Agents) architectures.
+- How AI effectively assists engineers in Production Environment operations, cost optimization (FinOps), code reviews, and automated penetration testing.
 
-#### 2. Localized Voice AI Agent for Vietnamese (R AI & Renova Cloud)
-[cite_start]Solving the low-resource language challenge for Vietnamese using an integrated 3-component framework[cite: 240]:
+#### 2. Vietnamese Voice AI Agent Technology (R AI & Renova Cloud)
+Solving the challenge of Vietnamese as a Low-resource language using an integrated 3-component model:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px; margin: 20px 0; font-weight: bold; font-size: 0.95em;">
   <div style="background-color: #fff7ed; color: #9a3412; padding: 8px 12px; border-radius: 6px; border: 1px solid #ffedd5;">Speech-to-Text (STT)</div>
   <div style="color: #9a3412; font-size: 1.2em;">&rarr;</div>
-  <div style="background-color: #fff7ed; color: #9a3412; padding: 8px 12px; border-radius: 6px; border: 1px solid #ffedd5;">Contextual LLM Processing</div>
+  <div style="background-color: #fff7ed; color: #9a3412; padding: 8px 12px; border-radius: 6px; border: 1px solid #ffedd5;">LLM Context Processing</div>
   <div style="color: #9a3412; font-size: 1.2em;">&rarr;</div>
   <div style="background-color: #fff7ed; color: #9a3412; padding: 8px 12px; border-radius: 6px; border: 1px solid #ffedd5;">Text-to-Speech (TTS)</div>
 </div>
 
-- [cite_start]Handling advanced real-world banking interactions: Gender detection for proper honorifics, natural interruption algorithms, and Tool Calling integration for automated complex tasks (e.g., locking a bank card)[cite: 241].
+- Handling advanced real-world interaction nuances in Banking: Gender detection for appropriate honorifics, endpoint detection algorithms for natural barge-in/interruption, and Tool Calling integration to execute complex tasks automatically (e.g., locking bank cards).
 
 #### 3. DevOps AI Agent Infrastructure (Cloud Kinetics)
-- [cite_start]Introduction to the 6 core pillars of DevOps Agents that automate Root Cause Analysis (RCA) when incidents or alerts trigger[cite: 243].
-- [cite_start]Real-world case study simulation: An e-commerce platform facing a simulated DDoS attack experienced a latency surge up to 12 seconds[cite: 244]. [cite_start]The DevOps Agent automatically scanned the system's topology graph (encompassing nearly 300 connections), precisely isolated 10 overloading ECS Tasks, and exported a mitigation script for engineer approval, resolving the issue within minutes[cite: 245].
+- Introduction of the 6 core pillars of DevOps Agents to automate Root Cause Analysis (RCA) upon receiving alerts/incidents.
+- Practical case-study simulation: An e-commerce system under a simulated DDoS attack experiences latency spiking to 12 seconds. The DevOps Agent automatically scans the full system Topology Graph containing nearly 300 links, pinpointing the exact failure source and generating remediation code to restore the application within minutes.
 
-#### 4. HR Administration & Private Security Connection Applications (Noventic)
-- [cite_start]Leveraging Amazon Q/Quick to build specific skills for automated batch-CV parsing and compatibility scoring against JDs, drastically reducing manual filtering workloads[cite: 247].
-#### Governance and Security Rigor
-- [cite_start]**System Integrity:** Prioritized the maturity of corporate data governance, systems observability, and isolated internal network connectivity through secure Private VPC Connections over superficial tech trends[cite: 257].
+#### 4. HR Management Applications & Private Connection Security (Noventic)
+- Leveraging Amazon Q/Quick to build Skills for automated multi-CV parsing and scoring compatibility against job descriptions (JDs), reducing manual screening workload.
+- **Advanced Technical Solution:** Deploying MCP Server inside a Private Subnet, connecting via AWS internal network using Interface Endpoints, and integrating AWS Secrets Manager with Route 53 Resolver to completely eliminate internet attack surface exposure and Man-in-the-middle risks.
 
-#### Proactive Career Strategy
-- [cite_start]**Active Upskilling:** Recognized the importance of early industry exposure through tech internships and learned to optimize personal resumes (CVs) against automated AI screening keyword criteria to maximize professional opportunities[cite: 258].
+### Key Takeaways
 
-### Event Experience
+#### Modern Engineer Mindset
+- **AI as a Lever:** Solid technical fundamentals remain core; AI serves as a powerful assistant acting as a lever to amplify productivity rather than replacing humans completely.
 
-[cite_start]Attending the **“FCAJ Community Day - June 2026”** meetup provided a deeply practical, multi-disciplinary technical experience[cite: 178, 249]:
+#### Systems Engineering & Security
+- **Sustainable Infrastructure:** Emphasizing comprehensive data governance, system observability, and isolated internal connectivity via Private VPC Connections.
+
+#### Proactive Strategy
+- **Career Development:** Proactively gaining real-world exposure through early enterprise internships and optimizing resumes (CVs) aligned with key technical terms to match modern recruitment trends.
+
+### Event Highlights & Experience
+
+Participating in the **“FCAJ Community Day - June 2026”** conference provided an engaging, deep-dive experience:
+
+- **Learning from Industry Experts:** Gained deep insights from senior professionals on actual career paths, how enterprises balance infrastructure costs, and workforce restructuring when adopting GenAI.
+- **Hands-on Technical Experience:** Witnessed live stage demos: from testing Voice AI handling Vietnamese conversations with natural interruptions, to watching DevOps Agents isolate infrastructure bugs and suggest remediation code during a DDoS incident.
+- **Modern Tooling Adoption:** Explored cutting-edge tools within the AWS ecosystem such as Amazon Q, Amazon Quick, and SDKs supporting Model Context Protocol (MCP) server connections. Learned how to set up isolated logical spaces (Agent Spaces) for data access control.
+- **Networking & Discussion:** Experienced the tech workspace at the AWS Vietnam office (Bitexco Financial Tower), networking directly with experts and peers. Engaged in vibrant discussions regarding Data Transfer Cost optimization and Context Window management.
+
+#### Event Gallery
+![alt text](image-2.png)
 
 
-#### Event Media Logs
-#### Event Media & Photos
-![alt text](image-3.png)
-
-> **Summary:** This event consolidated my technical mindset and security practices for a future Solutions Architect, demonstrating practical DevOps Agent operations, secure connectivity patterns, and insights on private endpoints and network cloaking.
-
- 
+> **Summary:** This event reinforced my technical and security-focused mindset essential for a future Solutions Architect—deepening my understanding of real-world DevOps Agent operations and secure, isolated connection architectures for enterprises.
