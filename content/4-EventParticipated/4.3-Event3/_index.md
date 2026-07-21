@@ -68,7 +68,7 @@ pre : " <b> 4.3. </b> "
 
 #### Event Media Logs
 #### Event Media & Photos
-<img src="/PhamDuyDat-fcj-workshop-template/images/4-Events/Event1.jpg" alt="FCAJ Community Day - June 2026" style="max-width:100%;height:auto;display:block;margin:12px 0;" />
+![alt text](image-1.png)
 > **Summary:** This workshop successfully bridged the gap between automated DevOps execution and secure corporate infrastructure. The insights on private endpoints and network cloaking directly complement my career goal of becoming a future Cloud Solutions Architect.
 
  

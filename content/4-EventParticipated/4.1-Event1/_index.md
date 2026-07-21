@@ -83,6 +83,6 @@ Participating in the **“FCAJ Community Day - May 2026”** workshop provided a
 
 #### Event Media Logs
 
-<img src="/PhamDuyDat-fcj-workshop-template/images/4-Events/Event1.jpg" alt="FCAJ Community Day" style="max-width:100%;height:auto;display:block;margin:12px 0;" />
+![alt text](image-1.png)
 
 > **Summary:** Ultimately, this meetup transcended typical technical lecturing by fundamentally restructuring my approach to professional self-governance, architectural precision, and long-term technical endurance. It provided clear guidance on technical workflows using the BMX method while reinforcing the discipline and environmental controls necessary to sustain long-term growth toward becoming a future Cloud Solutions Architect.

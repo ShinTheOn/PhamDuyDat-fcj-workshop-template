@@ -144,6 +144,5 @@ Key experiential highlights include:
 
 #### Event Media Logs
 #### Event Media
-<img src="/PhamDuyDat-fcj-workshop-template/images/4-Events/Event2.jpg" alt="GenAI-powered App-DB Modernization" style="max-width:100%;height:auto;display:block;margin:12px 0;" />
-
-
+![alt text](image-2.png)
+![alt text](image-3.png)
