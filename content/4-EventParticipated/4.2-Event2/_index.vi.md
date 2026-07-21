@@ -117,6 +117,6 @@ Tham gia workshop **“GenAI-powered App-DB Modernization”** là một trải 
 - Các công cụ AI như Amazon Q Developer có thể **boost productivity** nếu được tích hợp vào workflow phát triển hiện tại.
 
 #### Một số hình ảnh khi tham gia sự kiện
-![alt text](image.png)
+<img src="/PhamDuyDat-fcj-workshop-template/images/4-Events/Event2.jpg" alt="GenAI-powered App-DB Modernization" style="max-width:100%;height:auto;display:block;margin:12px 0;" />
 ![alt text](image-1.png)
 > Tổng thể, sự kiện không chỉ cung cấp kiến thức kỹ thuật mà còn giúp tôi thay đổi cách tư duy về thiết kế ứng dụng, hiện đại hóa hệ thống và phối hợp hiệu quả hơn giữa các team.

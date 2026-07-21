@@ -65,15 +65,10 @@ pre : " <b> 4.3. </b> "
 
 [cite_start]Attending the **“FCAJ Community Day - June 2026”** meetup provided a deeply practical, multi-disciplinary technical experience[cite: 178, 249]:
 
-- [cite_start]**Learning from High-Caliber Experts:** Gained realistic enterprise insights regarding career progression pathways, cloud infrastructure cost management, and workforce restructuring strategies during GenAI adoption from industry Founders and Senior Cloud Engineers[cite: 250].
-- [cite_start]**Interactive Technical Demonstrations:** Witnessed live, high-stakes on-stage demos featuring real-time conversational Voice AI and DevOps Agents conducting automated anomaly detection and execution of mitigation scripts[cite: 251].
-- [cite_start]**Application of Modern Tools:** Acquired deep, hands-on exposure to next-generation tools within the AWS ecosystem, including Amazon Q, Amazon Quick, and SDKs utilizing the Model Context Protocol (MCP)[cite: 252].
-- [cite_start]**Networking and Active Exchange:** Explored the modern AWS office workspace at Bitexco, directly engaged with industry professionals and peers, and actively participated in Q&A discussions regarding Data Transfer Costs and context window efficiency[cite: 253].
 
 #### Event Media Logs
-<img width="1920" height="2560" alt="z8011137877610_4ca1beeda19c1a9f36b20dce6a04b19b" src="https://github.com/user-attachments/assets/dbd335fc-4d47-4712-9b00-d3c151428977" />
-
-
+#### Event Media & Photos
+<img src="/PhamDuyDat-fcj-workshop-template/images/4-Events/Event1.jpg" alt="FCAJ Community Day - June 2026" style="max-width:100%;height:auto;display:block;margin:12px 0;" />
 > **Summary:** This workshop successfully bridged the gap between automated DevOps execution and secure corporate infrastructure. The insights on private endpoints and network cloaking directly complement my career goal of becoming a future Cloud Solutions Architect.
 
-![alt text](image.png)
+ 

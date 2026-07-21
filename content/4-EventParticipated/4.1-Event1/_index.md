@@ -82,8 +82,7 @@ Participating in the **“FCAJ Community Day - May 2026”** workshop provided a
 - Participating in strategic discussions regarding collaborative peer accountability and using the community rank framework to hyper-accelerate professional market readiness.
 
 #### Event Media Logs
-<img width="1920" height="2560" alt="z8006117712400_fe5213001f705b2b8899b1b01dda4b63" src="https://github.com/user-attachments/assets/a661c51d-cb80-4b23-8e8b-0d966f40bb67" />
+
+<img src="/PhamDuyDat-fcj-workshop-template/images/4-Events/Event1.jpg" alt="FCAJ Community Day" style="max-width:100%;height:auto;display:block;margin:12px 0;" />
 
 > **Summary:** Ultimately, this meetup transcended typical technical lecturing by fundamentally restructuring my approach to professional self-governance, architectural precision, and long-term technical endurance. It provided clear guidance on technical workflows using the BMX method while reinforcing the discipline and environmental controls necessary to sustain long-term growth toward becoming a future Cloud Solutions Architect.
-
-![alt text](image.png)

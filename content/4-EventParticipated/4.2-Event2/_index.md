@@ -141,13 +141,9 @@ A standardized 4-phase architecture lifecycle blueprint to graduate GenAI applic
 Attending the **“GenAI-powered App-DB Modernization”** workshop was a highly valuable experience, providing a multi-dimensional look into modernizing enterprise application layers and database clusters using next-generation automation frameworks.
 
 Key experiential highlights include:
-- **Learning from Elite Industry Mentors:** Gathering deep technical insights and real-world production incident case studies from global AWS technical directors and domestic solutions architects.
-- **Immersive Technical Demonstrations:** Witnessing live data demonstrating LLM non-determinism across parallel hardware architectures and grasping advanced engineering mechanics like Origin Cloaking and automated DDoS mitigation.
-- **Ecosystem Networking:** Engaging face-to-face with professional cloud engineers within the community, discussing methods to optimize actual corporate cloud billing footprints.
 
 #### Event Media Logs
-<img width="1920" height="2560" alt="z8006110106536_c0aee1738fee9c599a4568b98def415f" src="https://github.com/user-attachments/assets/b68503f9-3b62-4a5f-ad1e-64662ca95386" />
+#### Event Media
+<img src="/PhamDuyDat-fcj-workshop-template/images/4-Events/Event2.jpg" alt="GenAI-powered App-DB Modernization" style="max-width:100%;height:auto;display:block;margin:12px 0;" />
 
-> **Summary:** Ultimately, this workshop provided deep technical guidance and redefined my approach to building secure, modern cloud architectures. It reinforced the exact infrastructure patterns and edge security controls required for my professional path toward becoming a future Cloud Solutions Architect.
 
-![alt text](image.png)
