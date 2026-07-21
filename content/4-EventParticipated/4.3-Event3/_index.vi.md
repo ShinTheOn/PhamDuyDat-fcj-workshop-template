@@ -71,7 +71,7 @@ pre : " <b> 4.3. </b> "
 - [cite_start]**Kết nối và trao đổi:** Cơ hội trải nghiệm không gian công nghệ hiện đại tại văn phòng AWS (tòa nhà Bitexco), gặp gỡ và giao lưu trực tiếp với các chuyên gia, đồng nghiệp[cite: 215]. [cite_start]Thảo luận sôi nổi về bài toán chi phí truyền tải dữ liệu (Data Transfer Cost) và cách tối ưu hóa cửa sổ ngữ cảnh (Context Window)[cite: 216].
 
 #### Một số hình ảnh khi tham gia sự kiện
-<img src="/PhamDuyDat-fcj-workshop-template/images/4-Events/Event1.jpg" alt="FCAJ Community Day - June 2026" style="max-width:100%;height:auto;display:block;margin:12px 0;" />
+![alt text](image-2.png)
 
 
 > **Tổng kết:** Sự kiện này đã giúp tôi củng cố tư duy kỹ trị và bảo mật cần có của một Solutions Architect tương lai, hiểu rõ cách vận hành hệ thống DevOps Agent thực tế cũng như phương thức thiết kế kết nối bảo mật cô lập cho doanh nghiệp.

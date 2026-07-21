@@ -61,7 +61,7 @@ pre : " <b> 4.3. </b> "
 
 #### Event Media Logs
 #### Event Media & Photos
-<img src="/PhamDuyDat-fcj-workshop-template/images/4-Events/Event1.jpg" alt="FCAJ Community Day - June 2026" style="max-width:100%;height:auto;display:block;margin:12px 0;" />
+![alt text](image-3.png)
 
 > **Summary:** This event consolidated my technical mindset and security practices for a future Solutions Architect, demonstrating practical DevOps Agent operations, secure connectivity patterns, and insights on private endpoints and network cloaking.
 
