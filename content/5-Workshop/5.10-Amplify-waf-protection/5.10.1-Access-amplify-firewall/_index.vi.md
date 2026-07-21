@@ -12,7 +12,7 @@ Trong bước này, bạn sẽ mở trang quản lý firewall của ứng dụng
 
 #### Hướng dẫn
 
-![Ảnh 1](/images/5-Workshop/5.10-Amplify-waf-protection/anh1.png)
+![alt text](image.png)
 
 1. Đăng nhập vào AWS Management Console và mở dịch vụ AWS Amplify.
 2. Chọn ứng dụng của bạn, ví dụ `DoAnMiniGame`.

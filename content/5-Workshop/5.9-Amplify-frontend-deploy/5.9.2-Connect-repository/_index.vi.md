@@ -12,7 +12,7 @@ Trong bước này, bạn sẽ chọn repository và nhánh phù hợp để Amp
 
 #### Hướng dẫn
 
-![Ảnh 1](/images/5-Workshop/5.9-Amplify-frontend-deploy/anh3.png)
+![alt text](image.png)
 
 1. `Select repository`: chọn đúng kho chứa mã nguồn frontend của bạn, ví dụ `DTDuc04/DoAnMiniGame`.
 2. `Select branch`: chọn nhánh Git dùng để trigger deploy tự động, ví dụ `V1`.

@@ -17,9 +17,9 @@ In this step, you will review the entire configuration before saving and deployi
 3. Click `Save and deploy` to begin the build and deployment process.
 4. AWS Amplify will automatically pull the source code, install Flutter, and deploy the web application to the cloud.
 
-![Image 1](/images/5-Workshop/5.9-Amplify-frontend-deploy/anh6.png)
+![alt text](image.png)
 
-![Image 2](/images/5-Workshop/5.9-Amplify-frontend-deploy/anh7.png)
+![alt text](image-1.png)
 
 #### Expected result
 

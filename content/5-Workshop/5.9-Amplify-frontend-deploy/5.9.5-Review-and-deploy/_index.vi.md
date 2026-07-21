@@ -17,9 +17,9 @@ Trong bước này, bạn sẽ xem lại toàn bộ cấu hình trước khi lư
 3. Nhấn `Save and deploy` để bắt đầu quy trình build và deploy.
 4. AWS Amplify sẽ tự động kéo mã nguồn, cài đặt Flutter và triển khai ứng dụng web lên môi trường cloud.
 
-![Ảnh 1](/images/5-Workshop/5.9-Amplify-frontend-deploy/anh6.png)
+![alt text](image-2.png)
 
-![Ảnh 2](/images/5-Workshop/5.9-Amplify-frontend-deploy/anh7.png)
+![alt text](image-3.png)
 
 #### Kết quả mong đợi
 

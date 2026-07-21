@@ -12,7 +12,7 @@ Trong bước này, bạn sẽ mở các tùy chọn nâng cao của Amplify và
 
 #### Hướng dẫn
 
-![Ảnh 1](/images/5-Workshop/5.9-Amplify-frontend-deploy/anh5.png)
+![alt text](image.png)
 
 1. Cuộn xuống và mở rộng mục `Advanced settings`.
 2. Các tùy chọn như `Build instance type`, `Build image` hoặc `Cache key` là tùy chọn, bạn có thể giữ mặc định hoặc chỉnh phù hợp.

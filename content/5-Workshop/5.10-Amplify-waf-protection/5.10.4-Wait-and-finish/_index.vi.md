@@ -12,7 +12,7 @@ Trong bước này, bạn sẽ chờ AWS hoàn tất việc liên kết WAF vớ
 
 #### Hướng dẫn
 
-![Ảnh 1](/images/5-Workshop/5.10-Amplify-waf-protection/anh4.png)
+![alt text](image.png)
 
 1. Sau khi nhấn `Add firewall`, hệ thống sẽ quay về trang quản lý Firewall.
 2. Ở mục `Web Application Firewall`, trạng thái ban đầu có thể là `Associating`.

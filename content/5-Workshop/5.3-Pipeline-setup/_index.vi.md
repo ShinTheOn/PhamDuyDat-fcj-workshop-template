@@ -70,7 +70,5 @@ Bạn nên thấy các file quan trọng sau:
 - `samconfig.toml` lưu trữ thông tin về stage, profile và cấu hình triển khai.
 - Bạn có thể chỉnh sửa file này sau khi khởi tạo nếu cần tùy chỉnh cho môi trường của mình.
 
-![Ảnh 1](/images/5-Workshop/5.3-Pipeline-setup/anh1.png)
-
-![Ảnh 2](/images/5-Workshop/5.3-Pipeline-setup/anh2.png)
-
+![alt text](image.png)
+![alt text](image-1.png)

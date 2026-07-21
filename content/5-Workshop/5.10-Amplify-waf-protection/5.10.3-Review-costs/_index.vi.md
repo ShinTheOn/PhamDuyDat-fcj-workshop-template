@@ -12,7 +12,7 @@ Trong bước này, bạn sẽ xem lại chi phí và xác nhận việc kích h
 
 #### Hướng dẫn
 
-![Ảnh 1](/images/5-Workshop/5.10-Amplify-waf-protection/anh3.png)
+![alt text](image.png)
 
 1. Cuộn xuống cuối trang để xem phần ước tính chi phí.
 2. Lưu ý về chi phí:

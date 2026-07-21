@@ -43,5 +43,5 @@ Sau khi hoàn tất nhập thông tin, hãy kiểm tra lại các mục sau:
 
 Sau khi thiết lập xong, bạn đã sẵn sàng cho bước tiếp theo trong quy trình pipeline, trong đó stage Dev sẽ được dùng làm môi trường triển khai ban đầu.
 
-![Ảnh 1](/images/5-Workshop/5.4-Stage-setup/anh1.png)
+![alt text](image.png)
 

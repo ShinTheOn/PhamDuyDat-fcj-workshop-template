@@ -46,7 +46,5 @@ Sau khi hoàn tất bước này, bạn sẽ có:
 - Các tài nguyên AWS được khởi tạo tự động cho môi trường triển khai.
 - Một nền tảng sẵn sàng để bước tiếp theo là kết nối repository và chạy deployment.
 
-![Ảnh 1](/images/5-Workshop/5.5-Resource-creation/anh1.png)
-
-![Ảnh 2](/images/5-Workshop/5.5-Resource-creation/anh2.png)
-
+![alt text](image.png)
+![alt text](image-1.png)

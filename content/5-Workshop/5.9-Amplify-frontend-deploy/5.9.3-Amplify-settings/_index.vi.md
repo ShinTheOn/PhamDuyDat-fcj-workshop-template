@@ -12,7 +12,7 @@ Trong bước này, bạn sẽ đặt tên ứng dụng, cấu hình build setti
 
 #### Hướng dẫn
 
-![Ảnh 1](/images/5-Workshop/5.9-Amplify-frontend-deploy/anh4.png)
+![alt text](image.png)
 
 1. `App name`: nhập tên nhận diện cho frontend của bạn.
 2. Điền lệnh build và thư mục output phù hợp với dự án.
