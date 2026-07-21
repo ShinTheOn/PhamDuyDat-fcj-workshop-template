@@ -75,3 +75,5 @@ pre : " <b> 4.3. </b> "
 
 
 > **Summary:** This workshop successfully bridged the gap between automated DevOps execution and secure corporate infrastructure. The insights on private endpoints and network cloaking directly complement my career goal of becoming a future Cloud Solutions Architect.
+
+![alt text](image.png)

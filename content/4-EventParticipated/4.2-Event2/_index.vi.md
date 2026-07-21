@@ -1,15 +1,10 @@
 ---
-title: "Event 2"
-date: 2024-01-01
+title: "Sự kiện 2"
+date: 2026-05-23
 weight: 1
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
-
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
 # Bài thu hoạch “GenAI-powered App-DB Modernization workshop”
 
 ### Mục Đích Của Sự Kiện
@@ -24,6 +19,7 @@ pre: " <b> 4.2. </b> "
 - **Jignesh Shah** - Director, Open Source Databases
 - **Erica Liu** - Sr. GTM Specialist, AppMod
 - **Fabrianne Effendi** - Assc. Specialist SA, Serverless Amazon Web Services
+ 
 
 ### Nội Dung Nổi Bật
 
@@ -121,5 +117,6 @@ Tham gia workshop **“GenAI-powered App-DB Modernization”** là một trải 
 - Các công cụ AI như Amazon Q Developer có thể **boost productivity** nếu được tích hợp vào workflow phát triển hiện tại.
 
 #### Một số hình ảnh khi tham gia sự kiện
-* Thêm các hình ảnh của các bạn tại đây
+![alt text](image.png)
+![alt text](image-1.png)
 > Tổng thể, sự kiện không chỉ cung cấp kiến thức kỹ thuật mà còn giúp tôi thay đổi cách tư duy về thiết kế ứng dụng, hiện đại hóa hệ thống và phối hợp hiệu quả hơn giữa các team.
