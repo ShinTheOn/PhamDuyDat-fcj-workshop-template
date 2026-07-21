@@ -31,7 +31,9 @@ chapter: false
 
 &emsp; **Internship Period:** From 17/04/2026 to 17/07/2026
 
-<img width="842" height="1264" alt="z7647872115810_dbf2038099b100ea9a5da0e77ecf1c8a" src="https://github.com/user-attachments/assets/fc7dbfe7-8ec2-4a9a-8c2a-89344ad75791" />
+<div style="text-align:center; margin: 1rem 0;">
+	<img alt="internship-screenshot" src="https://github.com/user-attachments/assets/fc7dbfe7-8ec2-4a9a-8c2a-89344ad75791" style="max-width:720px; width:100%; height:auto; display:block; margin:0 auto;" />
+</div>
 
 
 
