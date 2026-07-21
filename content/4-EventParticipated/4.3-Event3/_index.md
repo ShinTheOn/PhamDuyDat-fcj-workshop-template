@@ -48,13 +48,6 @@ pre : " <b> 4.3. </b> "
 
 #### 4. HR Administration & Private Security Connection Applications (Noventic)
 - [cite_start]Leveraging Amazon Q/Quick to build specific skills for automated batch-CV parsing and compatibility scoring against JDs, drastically reducing manual filtering workloads[cite: 247].
-- [cite_start]Advanced technical solution: Placing MCP Servers inside a Private Subnet, utilizing Interface Endpoints for isolated AWS internal networking, and integrating AWS Secrets Manager and Route 53 Resolver to completely eliminate public internet exposure and Man-in-the-middle attack surfaces[cite: 248].
-
-### Key Takeaways
-
-#### Modern Developer Mindset
-- **AI as an Amplifier:** Solid technical fundamentals remain the absolute core; [cite_start]AI serves as a powerful amplifier to scale developer productivity rather than a complete replacement for human expertise[cite: 255, 256].
-
 #### Governance and Security Rigor
 - [cite_start]**System Integrity:** Prioritized the maturity of corporate data governance, systems observability, and isolated internal network connectivity through secure Private VPC Connections over superficial tech trends[cite: 257].
 
@@ -68,7 +61,9 @@ pre : " <b> 4.3. </b> "
 
 #### Event Media Logs
 #### Event Media & Photos
-![alt text](image-1.png)
+<img src="/PhamDuyDat-fcj-workshop-template/images/4-Events/Event1.jpg" alt="FCAJ Community Day - June 2026" style="max-width:100%;height:auto;display:block;margin:12px 0;" />
+
+> **Summary:** This event helped consolidate my technical mindset and security practices required for a future Solutions Architect, demonstrating practical DevOps Agent operations and secure connectivity patterns for enterprise environments.
 > **Summary:** This workshop successfully bridged the gap between automated DevOps execution and secure corporate infrastructure. The insights on private endpoints and network cloaking directly complement my career goal of becoming a future Cloud Solutions Architect.
 
  
