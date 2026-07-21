@@ -3,7 +3,7 @@ title: "Tự đánh giá"
 date: 2026-07-08
 weight: 6
 chapter: false
-pre: " <b> 1.6. </b> "
+pre: " <b> 6. </b> "
 ---
 
 Trong suốt thời gian thực tập tại **Công ty TNHH Amazon Web Services Việt Nam** từ **20/04/2026** đến **08/07/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức chuyên môn về Điện toán đám mây (Cloud Computing) đã được trang bị tại nhà trường vào môi trường làm việc thực tế chuẩn doanh nghiệp.  

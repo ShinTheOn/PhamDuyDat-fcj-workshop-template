@@ -3,7 +3,7 @@ title: "Self-Evaluation"
 date: 2026-07-08
 weight: 6
 chapter: false
-pre: " <b> 1.6. </b> "
+pre: " <b> 6. </b> "
 ---
 
 During my internship at **Amazon Web Services Vietnam Company Limited** from **20/04/2026** to **08/07/2026**, I had the opportunity to learn, practice, and apply my specialized Cloud Computing knowledge acquired at university into a professional corporate working environment.  

@@ -3,7 +3,7 @@ title: "Feedback & Suggestions"
 date: 2026-07-08
 weight: 7
 chapter: false
-pre: " <b> 1.7. </b> "
+pre: " <b> 7. </b> "
 ---
 
 > Below are my personal reflections and suggestions after completing my internship in the First Cloud Journey (FCJ) program. I would like to express my gratitude and offer constructive feedback to help the FCJ Organizing Team continue refining the program for future cohorts.

@@ -3,7 +3,7 @@ title: "Chia sẻ, đóng góp ý kiến"
 date: 2026-07-08
 weight: 7
 chapter: false
-pre: " <b> 1.7. </b> "
+pre: " <b> 7. </b> "
 ---
 
 > Dưới đây là những chia sẻ và đóng góp ý kiến cá nhân của tôi sau khi hoàn thành kỳ thực tập trong chương trình First Cloud Journey (FCJ), nhằm gửi lời cảm ơn cũng như góp phần giúp Ban tổ chức FCJ ngày càng hoàn thiện hơn trong các khóa thực tập tiếp theo.
