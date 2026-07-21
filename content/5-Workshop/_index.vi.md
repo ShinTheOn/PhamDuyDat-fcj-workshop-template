@@ -38,22 +38,12 @@ Bạn sẽ học bằng cách làm theo từng bước, từ cài đặt công c
 - Luôn kiểm tra profile AWS và region trước khi chạy lệnh SAM.
 
 #### Một số hình ảnh về project 
-![Image 1](/images/5-Workshop/anh1.png)
-
-![Image 2](/images/5-Workshop/anh2.png)
-
-![Image 3](/images/5-Workshop/anh3.png)
-
-![Image 4](/images/5-Workshop/anh4.png)
-
-![Image 5](/images/5-Workshop/anh5.png)
-
-![Image 6](/images/5-Workshop/anh6.png)
-
-![Image 7](/images/5-Workshop/anh7.png)
-
-![Image 8](/images/5-Workshop/anh8.png)
-
-![Image 9](/images/5-Workshop/anh9.png)
-
-
+![alt text](image-12.png)
+![alt text](image-13.png)
+![alt text](image-14.png)
+![alt text](image-15.png)
+![alt text](image-16.png)
+![alt text](image-17.png)
+![alt text](image-18.png)
+![alt text](image-19.png)
+![alt text](image-20.png)
