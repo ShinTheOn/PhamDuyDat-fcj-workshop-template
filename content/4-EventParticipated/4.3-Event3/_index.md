@@ -63,7 +63,6 @@ pre : " <b> 4.3. </b> "
 #### Event Media & Photos
 <img src="/PhamDuyDat-fcj-workshop-template/images/4-Events/Event1.jpg" alt="FCAJ Community Day - June 2026" style="max-width:100%;height:auto;display:block;margin:12px 0;" />
 
-> **Summary:** This event helped consolidate my technical mindset and security practices required for a future Solutions Architect, demonstrating practical DevOps Agent operations and secure connectivity patterns for enterprise environments.
-> **Summary:** This workshop successfully bridged the gap between automated DevOps execution and secure corporate infrastructure. The insights on private endpoints and network cloaking directly complement my career goal of becoming a future Cloud Solutions Architect.
+> **Summary:** This event consolidated my technical mindset and security practices for a future Solutions Architect, demonstrating practical DevOps Agent operations, secure connectivity patterns, and insights on private endpoints and network cloaking.
 
  
