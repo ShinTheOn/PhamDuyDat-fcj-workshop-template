@@ -12,7 +12,7 @@ In this step, you will set the application name, configure the build settings, a
 
 #### Instructions
 
-![Image 1](/images/5-Workshop/5.9-Amplify-frontend-deploy/anh4.png)
+![Image 1]({{ "/images/5-Workshop/5.9-Amplify-frontend-deploy/anh4.png" | relURL }})
 
 1. `App name`: enter a recognizable name for your frontend application.
 2. Fill in the build command and output directory according to your project structure.
@@ -74,3 +74,4 @@ applications:
 #### Expected result
 
 Once configured correctly, Amplify will know how to build your Flutter Web frontend in the cloud.
+

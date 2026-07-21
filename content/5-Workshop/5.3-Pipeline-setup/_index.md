@@ -70,8 +70,9 @@ You should see the following important files:
 - `samconfig.toml` stores the stage, profile, and deployment-related configuration.
 - You can edit this file after initialization if you need to customize it for your environment.
 
-![Ảnh 1](/images/5-Workshop/5.3-Pipeline-setup/anh1.png)
+![Ảnh 1]({{ "/images/5-Workshop/5.3-Pipeline-setup/anh1.png" | relURL }})
 
-![Ảnh 2](/images/5-Workshop/5.3-Pipeline-setup/anh2.png)
+![Ảnh 2]({{ "/images/5-Workshop/5.3-Pipeline-setup/anh2.png" | relURL }})
+
 
 

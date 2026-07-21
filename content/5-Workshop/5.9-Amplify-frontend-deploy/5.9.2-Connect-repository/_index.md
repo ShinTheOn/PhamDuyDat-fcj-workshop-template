@@ -12,7 +12,7 @@ In this step, you will select the correct repository and branch so Amplify can a
 
 #### Instructions
 
-![Image 1](/images/5-Workshop/5.9-Amplify-frontend-deploy/anh3.png)
+![Image 1]({{ "/images/5-Workshop/5.9-Amplify-frontend-deploy/anh3.png" | relURL }})
 
 1. `Select repository`: choose the repository that contains your frontend source code, for example `DTDuc04/DoAnMiniGame`.
 2. `Select branch`: choose the Git branch that should trigger deployment, for example `V1`.
@@ -22,3 +22,4 @@ In this step, you will select the correct repository and branch so Amplify can a
 #### Note
 
 Selecting the correct repository and branch is essential because Amplify uses them as the source for every new build.
+

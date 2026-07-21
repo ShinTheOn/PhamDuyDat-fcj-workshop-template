@@ -12,7 +12,7 @@ In this step, you will open the firewall management page for your Amplify app an
 
 #### Instructions
 
-![Image 1](/images/5-Workshop/5.10-Amplify-waf-protection/anh1.png)
+![Image 1]({{ "/images/5-Workshop/5.10-Amplify-waf-protection/anh1.png" | relURL }})
 
 1. Sign in to the AWS Management Console and open AWS Amplify.
 2. Select your application, for example `DoAnMiniGame`.
@@ -22,3 +22,4 @@ In this step, you will open the firewall management page for your Amplify app an
 #### Expected result
 
 After opening the firewall page, you are ready to proceed to the detailed WAF configuration step.
+

@@ -12,7 +12,7 @@ In this step, you will wait for AWS to finish associating WAF with your Amplify 
 
 #### Instructions
 
-![Image 1](/images/5-Workshop/5.10-Amplify-waf-protection/anh4.png)
+![Image 1]({{ "/images/5-Workshop/5.10-Amplify-waf-protection/anh4.png" | relURL }})
 
 1. After clicking `Add firewall`, the system returns to the Firewall management page.
 2. The `Web Application Firewall` section may initially show `Associating`.
@@ -22,3 +22,4 @@ In this step, you will wait for AWS to finish associating WAF with your Amplify 
 #### Expected result
 
 When the process finishes, your application will be protected by AWS WAF and ready for traffic monitoring and control.
+
