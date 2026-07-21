@@ -1,86 +1,83 @@
 ---
-title : "Prerequisites"
-date : 2026-07-12
+title : "Prerequisites for the Workshop"
+date: 2026-07-12
 weight : 2
 chapter : false
 pre : " <b> 5.2. </b> "
 ---
 
-#### 1. Account & Region
+#### Required preparations for the workshop
 
-+ An AWS account with billing enabled (personal account or one provided by the FCJ program).
-+ Deployment region: **`ap-southeast-1` (Singapore)** — every resource in the diagram (Amplify, API Gateway, Lambda, DynamoDB, Cognito…) is created in this region.
-+ A registered domain if you want Route 53 to point a custom domain at Amplify; otherwise you can use Amplify's default domain for testing first.
+Before starting the workshop, make sure you have the following ready:
+- An AWS account with access to IAM, Lambda, API Gateway, S3, CloudFormation, CodePipeline, CodeBuild, Amplify, Cognito, CloudWatch, WAF, and CodeConnections.
+- A GitHub repository containing the GameHub source code.
+- A deployment branch such as `V1` or `main`.
+- A clear project structure, especially if the repository is a monorepo with separate `backend/` and `frontend/` folders.
+- Git, AWS CLI, AWS SAM CLI, and Python installed locally. If you are working with the Flutter frontend, prepare the Flutter SDK as well.
 
-#### 2. Tools to Install
+#### Environment checks
 
-| Tool | Minimum Version | Used For |
-|---|---|---|
-| AWS CLI | v2.x | Authenticate & interact with AWS via `aws configure` |
-| AWS SAM CLI | latest | Build & deploy the backend (API Gateway, Lambda, DynamoDB) as IaC |
-| Git | any | Clone the source and push to GitHub to trigger GitHub Actions |
-| Node.js | 18.x or later | Runtime for the 3 Lambda functions (`$connect`, Game Logic, `$disconnect`) — swap for Python/Java if you chose a different runtime |
-| Flutter SDK | latest | Build & run the Mobile App (if you're continuing client-side development) |
-| Docker | latest (optional) | Container build when `sam build` needs to package dependencies |
-
-Verify your installation:
+1. Open a terminal in the project root.
+2. Verify the required tools:
 ```bash
 aws --version
 sam --version
 git --version
-node --version
+python --version
+```
+3. Configure your AWS profile for the workshop:
+```bash
+aws configure --profile gamehub
+```
+4. Verify that the profile is working:
+```bash
+aws sts get-caller-identity --profile gamehub
 ```
 
-#### 3. Required IAM Permissions
+#### Information to prepare before the workshop
 
-Attach the following policy (or an equivalent) to the IAM user/role used to deploy this workshop with AWS SAM:
+Have the following details ready before you begin the deployment steps:
+- `Region`, e.g. `ap-southeast-1`.
+- `AWS profile`, e.g. `gamehub`.
+- `Repository name`, e.g. `DTDuc04/DoAnMiniGame`.
+- `Repository subfolder`, e.g. `backend` or `frontend`.
+- `SSM Prefix`, e.g. `gamehub/` or leave it blank to use the default.
+- `Git branch`, e.g. `V1`.
+- `Template path`, e.g. `backend/codepipeline.yaml`.
+- `Stack names`, e.g. `GameHub-dev`, `GameHub-prod`, `GameHubPipeline`.
+- `Connection name` for GitHub in AWS CodeConnections, e.g. `GameHub`.
+- Frontend environment variables such as `COGNITO_REGION`, `COGNITO_USER_POOL_ID`, and `API_GATEWAY_HTTP_URL`.
 
-```json
-{
-    "Version": "2012-10-17",
-    "Statement": [
-        {
-            "Sid": "WorkshopDeployPermissions",
-            "Effect": "Allow",
-            "Action": [
-                "cloudformation:*",
-                "s3:*",
-                "lambda:*",
-                "apigateway:*",
-                "execute-api:ManageConnections",
-                "dynamodb:*",
-                "cognito-idp:*",
-                "amplify:*",
-                "route53:*",
-                "route53domains:*",
-                "wafv2:*",
-                "logs:*",
-                "cloudwatch:*",
-                "iam:CreateRole",
-                "iam:DeleteRole",
-                "iam:AttachRolePolicy",
-                "iam:DetachRolePolicy",
-                "iam:PutRolePolicy",
-                "iam:DeleteRolePolicy",
-                "iam:GetRole",
-                "iam:GetRolePolicy",
-                "iam:ListRolePolicies",
-                "iam:PassRole"
-            ],
-            "Resource": "*"
-        }
-    ]
-}
+#### Quick setup
+
+1. Install AWS CLI if needed:
+```bash
+pip install --user awscli
+aws --version
+```
+2. Install AWS SAM CLI if needed:
+```bash
+pip install --user aws-sam-cli
+sam --version
+```
+3. Configure the workshop profile:
+```bash
+aws configure --profile gamehub
 ```
 
-{{% notice warning %}}
-⚠️ This policy is for a **lab/learning environment**. For production, scope `Resource` down to the exact ARNs of each resource (stack, bucket, table, function…) instead of `*`, following the principle of least privilege.
-{{% /notice %}}
+#### Preparation checklist
 
-#### 4. Recommended Background Knowledge
+- [x] AWS account and required permissions available
+- [x] GitHub repository and deployment branch ready
+- [x] AWS CLI and SAM CLI installed
+- [x] AWS profile configured
+- [x] Repository details, stack names, and environment variables prepared
 
-+ The concept of a **WebSocket API** and how it differs from REST (a persistent bidirectional connection vs. discrete request/response calls).
-+ Basic **IAM**: Roles, Policies, Execution Roles, least privilege.
-+ Basic **DynamoDB**: partition keys, on-demand capacity mode.
-+ The **JWT/OAuth2** authentication flow with a Cognito User Pool.
-+ Basic **CI/CD** knowledge: GitHub Actions workflow structure, AWS SAM's `template.yaml` syntax.
+#### Tips
+
+- In a monorepo, keep `backend/` and `frontend/` clearly separated for easier pipeline and Amplify configuration.
+- Use a dedicated deployment branch to control changes and reduce risk.
+- Create separate profiles such as `gamehub-dev` and `gamehub-prod` if you plan to manage multiple environments.
+
+Note: Add a screenshot of `aws configure`, `sam --version`, and the repository structure in `images/5-Workshop/5.2-Prerequiste/aws-config.svg`.
+
