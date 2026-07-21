@@ -12,7 +12,7 @@ In this step, you will choose the appropriate WAF configuration and enable the r
 
 #### Instructions
 
-![Image 1]({{ "/images/5-Workshop/5.10-Amplify-waf-protection/anh2.png" | relURL }})
+![Image 1](/PhamDuyDat-fcj-workshop-template/images/5-Workshop/5.10-Amplify-waf-protection/anh2.png)
 
 On the `Add firewall` page, configure the following options:
 
@@ -27,4 +27,5 @@ On the `Add firewall` page, configure the following options:
 #### Note
 
 Advanced options are optional and can be left at the default setting if you do not need complex rules yet.
+
 

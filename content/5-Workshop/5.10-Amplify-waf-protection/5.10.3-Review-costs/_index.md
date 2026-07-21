@@ -12,7 +12,7 @@ In this step, you will review the estimated costs and confirm the activation of 
 
 #### Instructions
 
-![Image 1]({{ "/images/5-Workshop/5.10-Amplify-waf-protection/anh3.png" | relURL }})
+![Image 1](/PhamDuyDat-fcj-workshop-template/images/5-Workshop/5.10-Amplify-waf-protection/anh3.png)
 
 1. Scroll to the bottom of the page to review the cost estimate.
 2. Take note of the charges:
@@ -23,4 +23,5 @@ In this step, you will review the estimated costs and confirm the activation of 
 #### Note
 
 These costs may vary depending on actual traffic and the number of requests received by your application.
+
 

@@ -46,7 +46,8 @@ After this step, you will have:
 - AWS resources created automatically for deployment.
 - A foundation prepared for the next phase of the workflow.
 
-![Ảnh 1]({{ "/images/5-Workshop/5.5-Resource-creation/anh1.png" | relURL }})
+![Ảnh 1](/PhamDuyDat-fcj-workshop-template/images/5-Workshop/5.5-Resource-creation/anh1.png)
 
-![Ảnh 2]({{ "/images/5-Workshop/5.5-Resource-creation/anh2.png" | relURL }})
+![Ảnh 2](/PhamDuyDat-fcj-workshop-template/images/5-Workshop/5.5-Resource-creation/anh2.png)
+
 

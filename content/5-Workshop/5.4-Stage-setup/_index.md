@@ -43,6 +43,7 @@ After entering the information, verify the following:
 
 Once the setup is complete, you are ready to continue with the next stage of the pipeline workflow, where the Dev environment will be used as the initial deployment target.
 
-![Ảnh 1]({{ "/images/5-Workshop/5.4-Stage-setup/anh1.png" | relURL }})
+![Ảnh 1](/PhamDuyDat-fcj-workshop-template/images/5-Workshop/5.4-Stage-setup/anh1.png)
+
 
 

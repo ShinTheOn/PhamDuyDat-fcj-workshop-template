@@ -14,11 +14,11 @@ This section walks you through creating a new pipeline in the AWS Console using 
 
 Once the GitHub connection is ready, you can create a pipeline directly from the AWS Console to automate build and deployment.
 
-![Ảnh 1]({{ "/images/5-Workshop/5.8-Pipeline-console-setup/anh1.png" | relURL }})
+![Ảnh 1](/PhamDuyDat-fcj-workshop-template/images/5-Workshop/5.8-Pipeline-console-setup/anh1.png)
 
 ##### 1. Choose the deployment type and template
 
-![Ảnh 2]({{ "/images/5-Workshop/5.8-Pipeline-console-setup/anh2.png" | relURL }})
+![Ảnh 2](/PhamDuyDat-fcj-workshop-template/images/5-Workshop/5.8-Pipeline-console-setup/anh2.png)
 
 1. In the left navigation pane, go to `Developer Tools` → `CodePipeline` → `Pipelines`.
 2. Click `Create pipeline`.
@@ -29,7 +29,7 @@ Once the GitHub connection is ready, you can create a pipeline directly from the
 
 ##### 2. Set up the source stage
 
-![Ảnh 3]({{ "/images/5-Workshop/5.8-Pipeline-console-setup/anh3.png" | relURL }})
+![Ảnh 3](/PhamDuyDat-fcj-workshop-template/images/5-Workshop/5.8-Pipeline-console-setup/anh3.png)
 
 Connect the GitHub repository that you linked earlier:
 
@@ -42,7 +42,7 @@ Connect the GitHub repository that you linked earlier:
 
 ##### 3. Configure the template parameters
 
-![Ảnh 4]({{ "/images/5-Workshop/5.8-Pipeline-console-setup/anh4.png" | relURL }})
+![Ảnh 4](/PhamDuyDat-fcj-workshop-template/images/5-Workshop/5.8-Pipeline-console-setup/anh4.png)
 
 Fill in the details that identify the pipeline and CloudFormation stack:
 
@@ -53,7 +53,7 @@ Fill in the details that identify the pipeline and CloudFormation stack:
 
 ##### 4. Review permissions and finish setup
 
-![Ảnh 5]({{ "/images/5-Workshop/5.8-Pipeline-console-setup/anh5.png" | relURL }})
+![Ảnh 5](/PhamDuyDat-fcj-workshop-template/images/5-Workshop/5.8-Pipeline-console-setup/anh5.png)
 
 1. Scroll down to `CloudFormationResourcePermissions` and review the default permissions granted to CloudFormation.
 2. `RetentionPolicy`: choose what should happen when the stack is deleted, for example `Delete`.
@@ -68,4 +68,5 @@ After the pipeline is created, CodePipeline will automatically run the build and
 
 - Make sure the repository name and branch name match your actual project.
 - If the pipeline does not start immediately, wait a few minutes for AWS to finish the initialization process.
+
 
