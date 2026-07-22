@@ -3,7 +3,7 @@ title : "How AWS Optimizes AI for Autonomous Field Robots"
 date : 2026-07-08
 weight : 3
 chapter : false
-pre : " <b> 5.3. </b> "
+pre : " <b> 3.3. </b> "
 ---
 
 ### [Case Study] - How AWS Optimizes AI for Autonomous Field Robots

@@ -3,7 +3,7 @@ title : "How Synthesia Optimizes Generative AI Video Inference on Amazon EC2 G7e
 date : 2026-06-09
 weight : 1
 chapter : false
-pre : " <b> 5.1. </b> "
+pre : " <b> 3.1. </b> "
 ---
 
 ### [Case Study] How Synthesia Optimizes Generative AI Video Inference on Amazon EC2 G7e Instances — Saving $900 per 1,000 Hours

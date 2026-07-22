@@ -3,7 +3,7 @@ title : "Cách AWS tối ưu hóa AI cho robot tự hành ngoài thực tế"
 date : 2026-07-08
 weight : 3
 chapter : false
-pre : " <b> 5.3. </b> "
+pre : " <b> 3.3. </b> "
 ---
 
 ### [Góc chia sẻ] - Cách AWS tối ưu hóa AI cho robot tự hành ngoài thực tế

@@ -3,7 +3,7 @@ title : "Cách Synthesia tối ưu hóa AI sinh video trên Amazon EC2 G7e"
 date : 2026-06-09
 weight : 1
 chapter : false
-pre : " <b> 5.1. </b> "
+pre : " <b> 3.1. </b> "
 ---
 
 ### Cách Synthesia tối ưu hóa AI sinh video trên Amazon EC2 G7e — tiết kiệm $900 mỗi 1.000 giờ

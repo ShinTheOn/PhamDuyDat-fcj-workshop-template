@@ -3,7 +3,7 @@ title : "Tự động số hóa hồ sơ bệnh nhân bằng AI"
 date : 2026-06-19
 weight : 2
 chapter : false
-pre : " <b> 5.2. </b> "
+pre : " <b> 3.2. </b> "
 ---
 
 ### Tự động số hóa hồ sơ bệnh nhân bằng AI — AWS vừa công bố pipeline làm được điều này trong 20 phút

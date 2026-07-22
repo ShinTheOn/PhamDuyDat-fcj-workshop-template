@@ -3,7 +3,7 @@ title : "Automated Medical Record Digitization with AI"
 date : 2026-06-19
 weight : 2
 chapter : false
-pre : " <b> 5.2. </b> "
+pre : " <b> 3.2. </b> "
 ---
 
 ### Automating Patient Record Digitization with AI — AWS Just Announced a Pipeline That Does This in 20 Minutes
