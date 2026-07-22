@@ -26,7 +26,7 @@ The solution establishes a solid foundation for a real-time multiplayer gaming s
 ### 3. Architecture Design
 The platform adopts a Serverless Game Topology to manage long-lived real-time connection sessions from the Flutter client. The entire infrastructure is defined as code (IaC) via an AWS SAM template to guarantee architectural consistency.
 
-![Architecture Diagram](../../images/2-Proposal/edited.drawio.png)
+![alt text](image-1.png)
 
 *AWS Services Utilized*
 - **AWS Amplify**: Hosts and distributes the Flutter Web application interface.

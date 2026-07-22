@@ -33,10 +33,7 @@ Nền tảng áp dụng kiến trúc Serverless Game Topology để quản lý c
 #### Sơ đồ kiến trúc hệ thống
 Để sơ đồ hiển thị trực quan và thu hút trong tài liệu, hình ảnh kiến trúc được tích hợp trực tiếp bên dưới:
 
-<p align="center">
-  <img width="2761" height="1090" alt="image" src="https://github.com/user-attachments/assets/38c2f3f1-2850-4306-adbf-fb15941edb05" />
-
-" alt="AWS Serverless Game Architecture" width="100%">
+![alt text](image.png)
   <br>
   <i>Hình 3.1: Sơ đồ kiến trúc Real-time Serverless Game Platform sử dụng AWS SAM và GitHub Actions</i>
 </p>
