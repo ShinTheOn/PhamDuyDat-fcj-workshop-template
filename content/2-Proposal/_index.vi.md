@@ -34,9 +34,6 @@ Nền tảng áp dụng kiến trúc Serverless Game Topology để quản lý c
 Để sơ đồ hiển thị trực quan và thu hút trong tài liệu, hình ảnh kiến trúc được tích hợp trực tiếp bên dưới:
 
 ![alt text](image.png)
-  <br>
-  <i>Hình 3.1: Sơ đồ kiến trúc Real-time Serverless Game Platform sử dụng AWS SAM và GitHub Actions</i>
-</p>
 
 #### Dịch vụ AWS sử dụng
 * **AWS Amplify**: Lưu trữ và phân phối giao diện ứng dụng Flutter Web nhanh chóng qua hệ thống CDN toàn cầu.
